@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "polar-bear-skills": {
+      "source": {
+        "source": "github",
+        "repo": "polar-bear-org/claude-skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "ai-for-training-pack@polar-bear-skills": true
+  }
+}
